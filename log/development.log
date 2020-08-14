@@ -1,0 +1,816 @@
+Started GET "/" for ::1 at 2020-08-14 09:30:29 +0100
+DEPRECATION WARNING: ActiveRecord::Base.raise_in_transactional_callbacks= is deprecated, has no effect and will be removed without replacement. (called from block (3 levels) in <class:Railtie> at /Users/nicolanzi/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/activerecord-5.0.7.2/lib/active_record/railtie.rb:113)
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (0.5ms)
+  Rendered shared/_masthead.html.erb (0.3ms)
+  Rendered shared/_sections_nav.html.erb (0.3ms)
+  Rendered shared/_search_modal.html.erb (0.3ms)
+  Rendered shared/_main_content.html.erb (0.3ms)
+  Rendered static_pages/index.html.erb within layouts/application (33.1ms)
+Completed 500 Internal Server Error in 396ms (ActiveRecord: 0.0ms)
+
+
+DEPRECATION WARNING: #original_exception is deprecated. Use #cause instead. (called from initialize at /Users/nicolanzi/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/better_errors-2.7.1/lib/better_errors/raised_exception.rb:7)
+DEPRECATION WARNING: #original_exception is deprecated. Use #cause instead. (called from initialize at /Users/nicolanzi/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/better_errors-2.7.1/lib/better_errors/raised_exception.rb:9)
+
+Sass::SyntaxError - Invalid CSS after "  height": expected ";", was ": auto;":
+  app/views/layouts/application.html.erb:7:in `_app_views_layouts_application_html_erb___4095013818968261882_70129768844200'
+
+Started POST "/__better_errors/ace40f5e425ea604/variables" for ::1 at 2020-08-14 09:30:31 +0100
+Started GET "/" for ::1 at 2020-08-14 09:31:20 +0100
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (0.5ms)
+  Rendered shared/_masthead.html.erb (0.3ms)
+  Rendered shared/_sections_nav.html.erb (0.2ms)
+  Rendered shared/_search_modal.html.erb (0.2ms)
+  Rendered shared/_main_content.html.erb (0.4ms)
+  Rendered static_pages/index.html.erb within layouts/application (23.2ms)
+Completed 200 OK in 611ms (Views: 603.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-a0142d7e2c61b4a3fef0d88b423ac0be01f4efc99c31cb19eaa29295916cf52a.css?body=1" for ::1 at 2020-08-14 09:31:21 +0100
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for ::1 at 2020-08-14 09:31:21 +0100
+Started GET "/assets/components/dropdown.self-815016af6fab1d5b72abd319213bf62f0c42bab2c585d2e059543ae704a0d74c.js?body=1" for ::1 at 2020-08-14 09:31:21 +0100
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for ::1 at 2020-08-14 09:31:21 +0100
+Started GET "/assets/components/modal.self-52188644dbb47def5ee35ae02e69eb567ca9b664472357a8a5789dd39032a265.js?body=1" for ::1 at 2020-08-14 09:31:21 +0100
+Started GET "/assets/application.self-f571b9db02bf4ed04c38a6a29072ac382f7d4f47db1fab9817aeadb0d8665235.js?body=1" for ::1 at 2020-08-14 09:31:21 +0100
+Started GET "/assets/components/sidebar.self-2a1277f850a6fa21e1a974ef5152f177ac05516477d5081d593bb137b3d6808b.js?body=1" for ::1 at 2020-08-14 09:31:21 +0100
+Started GET "/assets/application.self-a0142d7e2c61b4a3fef0d88b423ac0be01f4efc99c31cb19eaa29295916cf52a.css?body=1&livereload=1597393911378" for ::1 at 2020-08-14 09:31:51 +0100
+Started GET "/assets/application.self-a0142d7e2c61b4a3fef0d88b423ac0be01f4efc99c31cb19eaa29295916cf52a.css?body=1&livereload=1597393911385" for ::1 at 2020-08-14 09:31:51 +0100
+Started GET "/" for ::1 at 2020-08-14 09:40:49 +0100
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (0.8ms)
+  Rendered shared/_masthead.html.erb (0.5ms)
+  Rendered shared/_sections_nav.html.erb (1.7ms)
+  Rendered shared/_search_modal.html.erb (0.7ms)
+  Rendered shared/_main_content.html.erb (0.5ms)
+  Rendered static_pages/index.html.erb within layouts/application (33.7ms)
+Completed 500 Internal Server Error in 195ms (ActiveRecord: 0.0ms)
+
+
+DEPRECATION WARNING: #original_exception is deprecated. Use #cause instead. (called from initialize at /Users/nicolanzi/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/better_errors-2.7.1/lib/better_errors/raised_exception.rb:7)
+DEPRECATION WARNING: #original_exception is deprecated. Use #cause instead. (called from initialize at /Users/nicolanzi/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/better_errors-2.7.1/lib/better_errors/raised_exception.rb:9)
+
+Sass::SyntaxError - Invalid CSS after "  height": expected ";", was ": auto;":
+  app/views/layouts/application.html.erb:7:in `_app_views_layouts_application_html_erb___4095013818968261882_70129756101240'
+
+Started POST "/__better_errors/fc05ffe6e00c7571/variables" for ::1 at 2020-08-14 09:40:49 +0100
+Started GET "/" for ::1 at 2020-08-14 09:42:25 +0100
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (1.3ms)
+  Rendered shared/_masthead.html.erb (0.7ms)
+  Rendered shared/_sections_nav.html.erb (0.8ms)
+  Rendered shared/_search_modal.html.erb (0.7ms)
+  Rendered shared/_main_content.html.erb (0.5ms)
+  Rendered static_pages/index.html.erb within layouts/application (32.7ms)
+Completed 200 OK in 325ms (Views: 315.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-91cb2be411e4333a4bc158e978a75db0b8b5091f8bbbe1987da5187c8c110b45.css?body=1" for ::1 at 2020-08-14 09:42:26 +0100
+Started GET "/" for ::1 at 2020-08-14 09:47:53 +0100
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (0.6ms)
+  Rendered shared/_masthead.html.erb (0.5ms)
+  Rendered shared/_sections_nav.html.erb (0.6ms)
+  Rendered shared/_search_modal.html.erb (0.3ms)
+  Rendered shared/_main_content.html.erb (0.3ms)
+  Rendered static_pages/index.html.erb within layouts/application (25.5ms)
+Completed 200 OK in 144ms (Views: 125.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2020-08-14 09:51:13 +0100
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (0.6ms)
+  Rendered shared/_masthead.html.erb (0.4ms)
+  Rendered shared/_sections_nav.html.erb (0.3ms)
+  Rendered shared/_search_modal.html.erb (0.3ms)
+  Rendered shared/_main_content.html.erb (0.3ms)
+  Rendered static_pages/index.html.erb within layouts/application (21.6ms)
+Completed 200 OK in 111ms (Views: 100.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2020-08-14 09:52:58 +0100
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (0.5ms)
+  Rendered shared/_masthead.html.erb (0.3ms)
+  Rendered shared/_sections_nav.html.erb (0.6ms)
+  Rendered shared/_search_modal.html.erb (0.5ms)
+  Rendered shared/_main_content.html.erb (0.3ms)
+  Rendered static_pages/index.html.erb within layouts/application (26.5ms)
+Completed 200 OK in 115ms (Views: 107.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2020-08-14 09:55:00 +0100
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (0.8ms)
+  Rendered shared/_masthead.html.erb (0.4ms)
+  Rendered shared/_sections_nav.html.erb (0.4ms)
+  Rendered shared/_search_modal.html.erb (0.4ms)
+  Rendered shared/_main_content.html.erb (0.5ms)
+  Rendered static_pages/index.html.erb within layouts/application (32.6ms)
+Completed 200 OK in 152ms (Views: 139.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2020-08-14 09:55:24 +0100
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (0.6ms)
+  Rendered shared/_masthead.html.erb (1.2ms)
+  Rendered shared/_sections_nav.html.erb (0.6ms)
+  Rendered shared/_search_modal.html.erb (0.6ms)
+  Rendered shared/_main_content.html.erb (0.5ms)
+  Rendered static_pages/index.html.erb within layouts/application (59.1ms)
+Completed 200 OK in 152ms (Views: 142.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2020-08-14 09:56:17 +0100
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (0.3ms)
+  Rendered shared/_masthead.html.erb (0.4ms)
+  Rendered shared/_sections_nav.html.erb (0.9ms)
+  Rendered shared/_search_modal.html.erb (0.3ms)
+  Rendered shared/_main_content.html.erb (0.3ms)
+  Rendered static_pages/index.html.erb within layouts/application (32.0ms)
+Completed 200 OK in 135ms (Views: 126.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-91cb2be411e4333a4bc158e978a75db0b8b5091f8bbbe1987da5187c8c110b45.css?body=1&livereload=1597395567471" for ::1 at 2020-08-14 09:59:27 +0100
+Started GET "/assets/application.self-91cb2be411e4333a4bc158e978a75db0b8b5091f8bbbe1987da5187c8c110b45.css?body=1&livereload=1597395567479" for ::1 at 2020-08-14 09:59:27 +0100
+Started GET "/assets/application.self-91cb2be411e4333a4bc158e978a75db0b8b5091f8bbbe1987da5187c8c110b45.css?body=1&livereload=1597395583300" for ::1 at 2020-08-14 09:59:43 +0100
+Started GET "/assets/application.self-91cb2be411e4333a4bc158e978a75db0b8b5091f8bbbe1987da5187c8c110b45.css?body=1&livereload=1597395583303" for ::1 at 2020-08-14 09:59:43 +0100
+Started GET "/assets/application.self-91cb2be411e4333a4bc158e978a75db0b8b5091f8bbbe1987da5187c8c110b45.css?body=1&livereload=1597395595555" for ::1 at 2020-08-14 09:59:55 +0100
+Started GET "/assets/application.self-91cb2be411e4333a4bc158e978a75db0b8b5091f8bbbe1987da5187c8c110b45.css?body=1&livereload=1597395595556" for ::1 at 2020-08-14 09:59:55 +0100
+Started GET "/assets/application.self-91cb2be411e4333a4bc158e978a75db0b8b5091f8bbbe1987da5187c8c110b45.css?body=1&livereload=1597395749794" for ::1 at 2020-08-14 10:02:29 +0100
+Started GET "/assets/application.self-91cb2be411e4333a4bc158e978a75db0b8b5091f8bbbe1987da5187c8c110b45.css?body=1&livereload=1597395749789" for ::1 at 2020-08-14 10:02:29 +0100
+Started GET "/assets/application.self-91cb2be411e4333a4bc158e978a75db0b8b5091f8bbbe1987da5187c8c110b45.css?body=1&livereload=1597395989553" for ::1 at 2020-08-14 10:06:29 +0100
+Started GET "/assets/application.self-91cb2be411e4333a4bc158e978a75db0b8b5091f8bbbe1987da5187c8c110b45.css?body=1&livereload=1597395989548" for ::1 at 2020-08-14 10:06:29 +0100
+Started GET "/" for ::1 at 2020-08-14 10:06:34 +0100
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (1.0ms)
+  Rendered shared/_masthead.html.erb (0.3ms)
+  Rendered shared/_sections_nav.html.erb (0.3ms)
+  Rendered shared/_search_modal.html.erb (0.3ms)
+  Rendered shared/_main_content.html.erb (0.8ms)
+  Rendered static_pages/index.html.erb within layouts/application (25.4ms)
+Completed 500 Internal Server Error in 92ms (ActiveRecord: 0.0ms)
+
+
+DEPRECATION WARNING: #original_exception is deprecated. Use #cause instead. (called from initialize at /Users/nicolanzi/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/better_errors-2.7.1/lib/better_errors/raised_exception.rb:7)
+DEPRECATION WARNING: #original_exception is deprecated. Use #cause instead. (called from initialize at /Users/nicolanzi/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/better_errors-2.7.1/lib/better_errors/raised_exception.rb:9)
+
+Sass::SyntaxError - Undefined variable: "$ligth-blue".:
+  app/views/layouts/application.html.erb:7:in `_app_views_layouts_application_html_erb___4095013818968261882_70129751247360'
+
+Started POST "/__better_errors/d47079e73f79aa3c/variables" for ::1 at 2020-08-14 10:06:35 +0100
+Started GET "/" for ::1 at 2020-08-14 10:06:50 +0100
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (0.3ms)
+  Rendered shared/_masthead.html.erb (0.2ms)
+  Rendered shared/_sections_nav.html.erb (0.4ms)
+  Rendered shared/_search_modal.html.erb (0.3ms)
+  Rendered shared/_main_content.html.erb (0.3ms)
+  Rendered static_pages/index.html.erb within layouts/application (23.7ms)
+Completed 200 OK in 272ms (Views: 265.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-0fe6930e957665ca10fed24cff1d0f0df56e9d288474159a6e8bbd1d946624cc.css?body=1" for ::1 at 2020-08-14 10:06:50 +0100
+Started GET "/assets/application.self-0fe6930e957665ca10fed24cff1d0f0df56e9d288474159a6e8bbd1d946624cc.css?body=1&livereload=1597396079420" for ::1 at 2020-08-14 10:07:59 +0100
+Started GET "/assets/application.self-0fe6930e957665ca10fed24cff1d0f0df56e9d288474159a6e8bbd1d946624cc.css?body=1&livereload=1597396079455" for ::1 at 2020-08-14 10:07:59 +0100
+Started GET "/assets/application.self-0fe6930e957665ca10fed24cff1d0f0df56e9d288474159a6e8bbd1d946624cc.css?body=1&livereload=1597396123512" for ::1 at 2020-08-14 10:08:43 +0100
+Started GET "/assets/application.self-0fe6930e957665ca10fed24cff1d0f0df56e9d288474159a6e8bbd1d946624cc.css?body=1&livereload=1597396123517" for ::1 at 2020-08-14 10:08:43 +0100
+Started GET "/assets/application.self-0fe6930e957665ca10fed24cff1d0f0df56e9d288474159a6e8bbd1d946624cc.css?body=1&livereload=1597396177891" for ::1 at 2020-08-14 10:09:37 +0100
+Started GET "/assets/application.self-0fe6930e957665ca10fed24cff1d0f0df56e9d288474159a6e8bbd1d946624cc.css?body=1&livereload=1597396177889" for ::1 at 2020-08-14 10:09:37 +0100
+Started GET "/assets/application.self-0fe6930e957665ca10fed24cff1d0f0df56e9d288474159a6e8bbd1d946624cc.css?body=1&livereload=1597396209676" for ::1 at 2020-08-14 10:10:09 +0100
+Started GET "/assets/application.self-0fe6930e957665ca10fed24cff1d0f0df56e9d288474159a6e8bbd1d946624cc.css?body=1&livereload=1597396209672" for ::1 at 2020-08-14 10:10:09 +0100
+Started GET "/assets/application.self-0fe6930e957665ca10fed24cff1d0f0df56e9d288474159a6e8bbd1d946624cc.css?body=1&livereload=1597396224220" for ::1 at 2020-08-14 10:10:24 +0100
+Started GET "/assets/application.self-0fe6930e957665ca10fed24cff1d0f0df56e9d288474159a6e8bbd1d946624cc.css?body=1&livereload=1597396224222" for ::1 at 2020-08-14 10:10:24 +0100
+Started GET "/assets/application.self-0fe6930e957665ca10fed24cff1d0f0df56e9d288474159a6e8bbd1d946624cc.css?body=1&livereload=1597396230442" for ::1 at 2020-08-14 10:10:30 +0100
+Started GET "/assets/application.self-0fe6930e957665ca10fed24cff1d0f0df56e9d288474159a6e8bbd1d946624cc.css?body=1&livereload=1597396230444" for ::1 at 2020-08-14 10:10:30 +0100
+Started GET "/assets/application.self-0fe6930e957665ca10fed24cff1d0f0df56e9d288474159a6e8bbd1d946624cc.css?body=1&livereload=1597396285185" for ::1 at 2020-08-14 10:11:25 +0100
+Started GET "/assets/application.self-0fe6930e957665ca10fed24cff1d0f0df56e9d288474159a6e8bbd1d946624cc.css?body=1&livereload=1597396285188" for ::1 at 2020-08-14 10:11:25 +0100
+Started GET "/assets/application.self-0fe6930e957665ca10fed24cff1d0f0df56e9d288474159a6e8bbd1d946624cc.css?body=1&livereload=1597396297076" for ::1 at 2020-08-14 10:11:37 +0100
+Started GET "/assets/application.self-0fe6930e957665ca10fed24cff1d0f0df56e9d288474159a6e8bbd1d946624cc.css?body=1&livereload=1597396297086" for ::1 at 2020-08-14 10:11:37 +0100
+Started GET "/assets/application.self-0fe6930e957665ca10fed24cff1d0f0df56e9d288474159a6e8bbd1d946624cc.css?body=1&livereload=1597396305283" for ::1 at 2020-08-14 10:11:45 +0100
+Started GET "/assets/application.self-0fe6930e957665ca10fed24cff1d0f0df56e9d288474159a6e8bbd1d946624cc.css?body=1&livereload=1597396305284" for ::1 at 2020-08-14 10:11:45 +0100
+Started GET "/assets/application.self-0fe6930e957665ca10fed24cff1d0f0df56e9d288474159a6e8bbd1d946624cc.css?body=1&livereload=1597396313645" for ::1 at 2020-08-14 10:11:53 +0100
+Started GET "/assets/application.self-0fe6930e957665ca10fed24cff1d0f0df56e9d288474159a6e8bbd1d946624cc.css?body=1&livereload=1597396313642" for ::1 at 2020-08-14 10:11:53 +0100
+Started GET "/assets/application.self-0fe6930e957665ca10fed24cff1d0f0df56e9d288474159a6e8bbd1d946624cc.css?body=1&livereload=1597396317179" for ::1 at 2020-08-14 10:11:57 +0100
+Started GET "/assets/application.self-0fe6930e957665ca10fed24cff1d0f0df56e9d288474159a6e8bbd1d946624cc.css?body=1&livereload=1597396317182" for ::1 at 2020-08-14 10:11:57 +0100
+Started GET "/assets/application.self-0fe6930e957665ca10fed24cff1d0f0df56e9d288474159a6e8bbd1d946624cc.css?body=1&livereload=1597396323983" for ::1 at 2020-08-14 10:12:03 +0100
+Started GET "/assets/application.self-0fe6930e957665ca10fed24cff1d0f0df56e9d288474159a6e8bbd1d946624cc.css?body=1&livereload=1597396323984" for ::1 at 2020-08-14 10:12:03 +0100
+Started GET "/assets/application.self-0fe6930e957665ca10fed24cff1d0f0df56e9d288474159a6e8bbd1d946624cc.css?body=1&livereload=1597396335044" for ::1 at 2020-08-14 10:12:15 +0100
+Started GET "/assets/application.self-0fe6930e957665ca10fed24cff1d0f0df56e9d288474159a6e8bbd1d946624cc.css?body=1&livereload=1597396335046" for ::1 at 2020-08-14 10:12:15 +0100
+Started GET "/assets/application.self-0fe6930e957665ca10fed24cff1d0f0df56e9d288474159a6e8bbd1d946624cc.css?body=1&livereload=1597396342338" for ::1 at 2020-08-14 10:12:22 +0100
+Started GET "/assets/application.self-0fe6930e957665ca10fed24cff1d0f0df56e9d288474159a6e8bbd1d946624cc.css?body=1&livereload=1597396342343" for ::1 at 2020-08-14 10:12:22 +0100
+Started GET "/assets/application.self-0fe6930e957665ca10fed24cff1d0f0df56e9d288474159a6e8bbd1d946624cc.css?body=1&livereload=1597396364149" for ::1 at 2020-08-14 10:12:44 +0100
+Started GET "/assets/application.self-0fe6930e957665ca10fed24cff1d0f0df56e9d288474159a6e8bbd1d946624cc.css?body=1&livereload=1597396364151" for ::1 at 2020-08-14 10:12:44 +0100
+Started GET "/assets/application.self-0fe6930e957665ca10fed24cff1d0f0df56e9d288474159a6e8bbd1d946624cc.css?body=1&livereload=1597396374810" for ::1 at 2020-08-14 10:12:54 +0100
+Started GET "/assets/application.self-0fe6930e957665ca10fed24cff1d0f0df56e9d288474159a6e8bbd1d946624cc.css?body=1&livereload=1597396374812" for ::1 at 2020-08-14 10:12:54 +0100
+Started GET "/assets/application.self-0fe6930e957665ca10fed24cff1d0f0df56e9d288474159a6e8bbd1d946624cc.css?body=1&livereload=1597396376485" for ::1 at 2020-08-14 10:12:56 +0100
+Started GET "/assets/application.self-0fe6930e957665ca10fed24cff1d0f0df56e9d288474159a6e8bbd1d946624cc.css?body=1&livereload=1597396376486" for ::1 at 2020-08-14 10:12:56 +0100
+Started GET "/assets/application.self-0fe6930e957665ca10fed24cff1d0f0df56e9d288474159a6e8bbd1d946624cc.css?body=1&livereload=1597396378346" for ::1 at 2020-08-14 10:12:58 +0100
+Started GET "/assets/application.self-0fe6930e957665ca10fed24cff1d0f0df56e9d288474159a6e8bbd1d946624cc.css?body=1&livereload=1597396378354" for ::1 at 2020-08-14 10:12:58 +0100
+Started GET "/assets/application.self-0fe6930e957665ca10fed24cff1d0f0df56e9d288474159a6e8bbd1d946624cc.css?body=1&livereload=1597396420427" for ::1 at 2020-08-14 10:13:40 +0100
+Started GET "/assets/application.self-0fe6930e957665ca10fed24cff1d0f0df56e9d288474159a6e8bbd1d946624cc.css?body=1&livereload=1597396420429" for ::1 at 2020-08-14 10:13:40 +0100
+Started GET "/assets/application.self-0fe6930e957665ca10fed24cff1d0f0df56e9d288474159a6e8bbd1d946624cc.css?body=1&livereload=1597396460213" for ::1 at 2020-08-14 10:14:20 +0100
+Started GET "/assets/application.self-0fe6930e957665ca10fed24cff1d0f0df56e9d288474159a6e8bbd1d946624cc.css?body=1&livereload=1597396460215" for ::1 at 2020-08-14 10:14:20 +0100
+Started GET "/assets/application.self-0fe6930e957665ca10fed24cff1d0f0df56e9d288474159a6e8bbd1d946624cc.css?body=1&livereload=1597396472117" for ::1 at 2020-08-14 10:14:32 +0100
+Started GET "/assets/application.self-0fe6930e957665ca10fed24cff1d0f0df56e9d288474159a6e8bbd1d946624cc.css?body=1&livereload=1597396472120" for ::1 at 2020-08-14 10:14:32 +0100
+Started GET "/assets/application.self-0fe6930e957665ca10fed24cff1d0f0df56e9d288474159a6e8bbd1d946624cc.css?body=1&livereload=1597396511297" for ::1 at 2020-08-14 10:15:11 +0100
+Started GET "/assets/application.self-0fe6930e957665ca10fed24cff1d0f0df56e9d288474159a6e8bbd1d946624cc.css?body=1&livereload=1597396511298" for ::1 at 2020-08-14 10:15:11 +0100
+Started GET "/assets/application.self-0fe6930e957665ca10fed24cff1d0f0df56e9d288474159a6e8bbd1d946624cc.css?body=1&livereload=1597396593587" for ::1 at 2020-08-14 10:16:33 +0100
+Started GET "/assets/application.self-0fe6930e957665ca10fed24cff1d0f0df56e9d288474159a6e8bbd1d946624cc.css?body=1&livereload=1597396593589" for ::1 at 2020-08-14 10:16:33 +0100
+Started GET "/assets/application.self-0fe6930e957665ca10fed24cff1d0f0df56e9d288474159a6e8bbd1d946624cc.css?body=1&livereload=1597396619067" for ::1 at 2020-08-14 10:16:59 +0100
+Started GET "/assets/application.self-0fe6930e957665ca10fed24cff1d0f0df56e9d288474159a6e8bbd1d946624cc.css?body=1&livereload=1597396619069" for ::1 at 2020-08-14 10:16:59 +0100
+Started GET "/assets/application.self-0fe6930e957665ca10fed24cff1d0f0df56e9d288474159a6e8bbd1d946624cc.css?body=1&livereload=1597396657781" for ::1 at 2020-08-14 10:17:37 +0100
+Started GET "/assets/application.self-0fe6930e957665ca10fed24cff1d0f0df56e9d288474159a6e8bbd1d946624cc.css?body=1&livereload=1597396657783" for ::1 at 2020-08-14 10:17:37 +0100
+Started GET "/assets/application.self-0fe6930e957665ca10fed24cff1d0f0df56e9d288474159a6e8bbd1d946624cc.css?body=1&livereload=1597396668642" for ::1 at 2020-08-14 10:17:48 +0100
+Started GET "/assets/application.self-0fe6930e957665ca10fed24cff1d0f0df56e9d288474159a6e8bbd1d946624cc.css?body=1&livereload=1597396668640" for ::1 at 2020-08-14 10:17:48 +0100
+Started GET "/assets/application.self-0fe6930e957665ca10fed24cff1d0f0df56e9d288474159a6e8bbd1d946624cc.css?body=1&livereload=1597396679728" for ::1 at 2020-08-14 10:17:59 +0100
+Started GET "/assets/application.self-0fe6930e957665ca10fed24cff1d0f0df56e9d288474159a6e8bbd1d946624cc.css?body=1&livereload=1597396679729" for ::1 at 2020-08-14 10:17:59 +0100
+Started GET "/assets/application.self-0fe6930e957665ca10fed24cff1d0f0df56e9d288474159a6e8bbd1d946624cc.css?body=1&livereload=1597396731774" for ::1 at 2020-08-14 10:18:51 +0100
+Started GET "/assets/application.self-0fe6930e957665ca10fed24cff1d0f0df56e9d288474159a6e8bbd1d946624cc.css?body=1&livereload=1597396731771" for ::1 at 2020-08-14 10:18:51 +0100
+Started GET "/assets/application.self-0fe6930e957665ca10fed24cff1d0f0df56e9d288474159a6e8bbd1d946624cc.css?body=1&livereload=1597396735671" for ::1 at 2020-08-14 10:18:55 +0100
+Started GET "/assets/application.self-0fe6930e957665ca10fed24cff1d0f0df56e9d288474159a6e8bbd1d946624cc.css?body=1&livereload=1597396735664" for ::1 at 2020-08-14 10:18:55 +0100
+Started GET "/assets/application.self-0fe6930e957665ca10fed24cff1d0f0df56e9d288474159a6e8bbd1d946624cc.css?body=1&livereload=1597396795304" for ::1 at 2020-08-14 10:19:55 +0100
+Started GET "/assets/application.self-0fe6930e957665ca10fed24cff1d0f0df56e9d288474159a6e8bbd1d946624cc.css?body=1&livereload=1597396795307" for ::1 at 2020-08-14 10:19:55 +0100
+Started GET "/assets/application.self-0fe6930e957665ca10fed24cff1d0f0df56e9d288474159a6e8bbd1d946624cc.css?body=1&livereload=1597396841982" for ::1 at 2020-08-14 10:20:42 +0100
+Started GET "/assets/application.self-0fe6930e957665ca10fed24cff1d0f0df56e9d288474159a6e8bbd1d946624cc.css?body=1&livereload=1597396841979" for ::1 at 2020-08-14 10:20:42 +0100
+Started GET "/assets/application.self-0fe6930e957665ca10fed24cff1d0f0df56e9d288474159a6e8bbd1d946624cc.css?body=1&livereload=1597396884571" for ::1 at 2020-08-14 10:21:24 +0100
+Started GET "/assets/application.self-0fe6930e957665ca10fed24cff1d0f0df56e9d288474159a6e8bbd1d946624cc.css?body=1&livereload=1597396884572" for ::1 at 2020-08-14 10:21:24 +0100
+Started GET "/assets/application.self-0fe6930e957665ca10fed24cff1d0f0df56e9d288474159a6e8bbd1d946624cc.css?body=1&livereload=1597396895685" for ::1 at 2020-08-14 10:21:35 +0100
+Started GET "/assets/application.self-0fe6930e957665ca10fed24cff1d0f0df56e9d288474159a6e8bbd1d946624cc.css?body=1&livereload=1597396895686" for ::1 at 2020-08-14 10:21:35 +0100
+Started GET "/assets/application.self-0fe6930e957665ca10fed24cff1d0f0df56e9d288474159a6e8bbd1d946624cc.css?body=1&livereload=1597397447989" for ::1 at 2020-08-14 10:30:48 +0100
+Started GET "/assets/application.self-0fe6930e957665ca10fed24cff1d0f0df56e9d288474159a6e8bbd1d946624cc.css?body=1&livereload=1597397447993" for ::1 at 2020-08-14 10:30:48 +0100
+Started GET "/assets/application.self-0fe6930e957665ca10fed24cff1d0f0df56e9d288474159a6e8bbd1d946624cc.css?body=1&livereload=1597397488688" for ::1 at 2020-08-14 10:31:28 +0100
+Started GET "/assets/application.self-0fe6930e957665ca10fed24cff1d0f0df56e9d288474159a6e8bbd1d946624cc.css?body=1&livereload=1597397488691" for ::1 at 2020-08-14 10:31:28 +0100
+Started GET "/" for ::1 at 2020-08-14 10:35:36 +0100
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (0.8ms)
+  Rendered shared/_masthead.html.erb (2.0ms)
+  Rendered shared/_sections_nav.html.erb (1.3ms)
+  Rendered shared/_search_modal.html.erb (1.8ms)
+  Rendered shared/_main_content.html.erb (0.7ms)
+  Rendered static_pages/index.html.erb within layouts/application (48.0ms)
+Completed 200 OK in 195ms (Views: 177.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-f60ab1ca3db33df321071e2e937fff6b8418cb1506a0febef0d639a9cad7e4ae.css?body=1" for ::1 at 2020-08-14 10:35:37 +0100
+Started GET "/" for ::1 at 2020-08-14 10:38:29 +0100
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (4.8ms)
+  Rendered shared/_masthead.html.erb (3.4ms)
+  Rendered shared/_sections_nav.html.erb (7.1ms)
+  Rendered shared/_search_modal.html.erb (0.5ms)
+  Rendered shared/_main_content.html.erb (0.4ms)
+  Rendered static_pages/index.html.erb within layouts/application (54.9ms)
+Completed 200 OK in 179ms (Views: 167.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2020-08-14 10:39:24 +0100
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (3.5ms)
+  Rendered shared/_masthead.html.erb (3.6ms)
+  Rendered shared/_sections_nav.html.erb (0.3ms)
+  Rendered shared/_search_modal.html.erb (0.3ms)
+  Rendered shared/_main_content.html.erb (0.3ms)
+  Rendered static_pages/index.html.erb within layouts/application (30.8ms)
+Completed 200 OK in 106ms (Views: 100.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2020-08-14 10:40:05 +0100
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (1.1ms)
+  Rendered shared/_masthead.html.erb (0.4ms)
+  Rendered shared/_sections_nav.html.erb (0.4ms)
+  Rendered shared/_search_modal.html.erb (3.1ms)
+  Rendered shared/_main_content.html.erb (0.3ms)
+  Rendered static_pages/index.html.erb within layouts/application (28.3ms)
+Completed 200 OK in 112ms (Views: 105.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2020-08-14 10:41:18 +0100
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (4.5ms)
+  Rendered shared/_masthead.html.erb (0.6ms)
+  Rendered shared/_sections_nav.html.erb (0.7ms)
+  Rendered shared/_search_modal.html.erb (0.4ms)
+  Rendered shared/_main_content.html.erb (0.3ms)
+  Rendered static_pages/index.html.erb within layouts/application (29.8ms)
+Completed 200 OK in 115ms (Views: 107.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/example_image.jpg" for ::1 at 2020-08-14 10:41:18 +0100
+  
+ActionController::RoutingError (No route matches [GET] "/assets/example_image.jpg"):
+  
+actionpack (5.0.7.2) lib/action_dispatch/middleware/debug_exceptions.rb:53:in `call'
+web-console (3.7.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.7.0) lib/web_console/middleware.rb:30:in `block in call'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.0.7.2) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.0.7.2) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.0.7.2) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.0.7.2) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.0.7.2) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.0.7.2) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.0.7.2) lib/rails/rack/logger.rb:24:in `call'
+actionpack (5.0.7.2) lib/action_dispatch/middleware/request_id.rb:24:in `call'
+rack (2.2.3) lib/rack/method_override.rb:24:in `call'
+rack (2.2.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.0.7.2) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+actionpack (5.0.7.2) lib/action_dispatch/middleware/executor.rb:12:in `call'
+rack-livereload (0.3.17) lib/rack/livereload.rb:23:in `_call'
+rack-livereload (0.3.17) lib/rack/livereload.rb:14:in `call'
+actionpack (5.0.7.2) lib/action_dispatch/middleware/static.rb:136:in `call'
+rack (2.2.3) lib/rack/sendfile.rb:110:in `call'
+railties (5.0.7.2) lib/rails/engine.rb:522:in `call'
+puma (3.12.6) lib/puma/configuration.rb:227:in `call'
+puma (3.12.6) lib/puma/server.rb:706:in `handle_request'
+puma (3.12.6) lib/puma/server.rb:476:in `process_client'
+puma (3.12.6) lib/puma/server.rb:334:in `block in run'
+puma (3.12.6) lib/puma/thread_pool.rb:135:in `block in spawn_thread'
+  Rendering /Users/nicolanzi/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/actionpack-5.0.7.2/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout
+  Rendering /Users/nicolanzi/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/actionpack-5.0.7.2/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb
+  Rendered /Users/nicolanzi/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/actionpack-5.0.7.2/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (9.1ms)
+  Rendered collection of /Users/nicolanzi/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/actionpack-5.0.7.2/lib/action_dispatch/middleware/templates/routes/_route.html.erb [1 times] (105.3ms)
+  Rendered /Users/nicolanzi/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/actionpack-5.0.7.2/lib/action_dispatch/middleware/templates/routes/_table.html.erb (110.4ms)
+  Rendering /Users/nicolanzi/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/actionpack-5.0.7.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb
+  Rendered /Users/nicolanzi/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/actionpack-5.0.7.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (3.2ms)
+  Rendered /Users/nicolanzi/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/actionpack-5.0.7.2/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (509.8ms)
+Started GET "/" for ::1 at 2020-08-14 10:46:28 +0100
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (0.8ms)
+  Rendered shared/_masthead.html.erb (1.1ms)
+  Rendered shared/_sections_nav.html.erb (0.4ms)
+  Rendered shared/_search_modal.html.erb (0.4ms)
+  Rendered shared/_main_content.html.erb (0.4ms)
+  Rendered static_pages/index.html.erb within layouts/application (28.7ms)
+Completed 200 OK in 138ms (Views: 126.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/example_image.jpg" for ::1 at 2020-08-14 10:46:28 +0100
+  
+ActionController::RoutingError (No route matches [GET] "/assets/example_image.jpg"):
+  
+actionpack (5.0.7.2) lib/action_dispatch/middleware/debug_exceptions.rb:53:in `call'
+web-console (3.7.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.7.0) lib/web_console/middleware.rb:30:in `block in call'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.0.7.2) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.0.7.2) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.0.7.2) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.0.7.2) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.0.7.2) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.0.7.2) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.0.7.2) lib/rails/rack/logger.rb:24:in `call'
+actionpack (5.0.7.2) lib/action_dispatch/middleware/request_id.rb:24:in `call'
+rack (2.2.3) lib/rack/method_override.rb:24:in `call'
+rack (2.2.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.0.7.2) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+actionpack (5.0.7.2) lib/action_dispatch/middleware/executor.rb:12:in `call'
+rack-livereload (0.3.17) lib/rack/livereload.rb:23:in `_call'
+rack-livereload (0.3.17) lib/rack/livereload.rb:14:in `call'
+actionpack (5.0.7.2) lib/action_dispatch/middleware/static.rb:136:in `call'
+rack (2.2.3) lib/rack/sendfile.rb:110:in `call'
+railties (5.0.7.2) lib/rails/engine.rb:522:in `call'
+puma (3.12.6) lib/puma/configuration.rb:227:in `call'
+puma (3.12.6) lib/puma/server.rb:706:in `handle_request'
+puma (3.12.6) lib/puma/server.rb:476:in `process_client'
+puma (3.12.6) lib/puma/server.rb:334:in `block in run'
+puma (3.12.6) lib/puma/thread_pool.rb:135:in `block in spawn_thread'
+  Rendering /Users/nicolanzi/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/actionpack-5.0.7.2/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout
+  Rendering /Users/nicolanzi/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/actionpack-5.0.7.2/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb
+  Rendered /Users/nicolanzi/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/actionpack-5.0.7.2/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (4.8ms)
+  Rendered collection of /Users/nicolanzi/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/actionpack-5.0.7.2/lib/action_dispatch/middleware/templates/routes/_route.html.erb [1 times] (2.8ms)
+  Rendered /Users/nicolanzi/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/actionpack-5.0.7.2/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.6ms)
+  Rendering /Users/nicolanzi/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/actionpack-5.0.7.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb
+  Rendered /Users/nicolanzi/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/actionpack-5.0.7.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (2.3ms)
+  Rendered /Users/nicolanzi/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/actionpack-5.0.7.2/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (239.1ms)
+Started GET "/" for ::1 at 2020-08-14 10:48:41 +0100
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (2.2ms)
+  Rendered shared/_masthead.html.erb (4.1ms)
+  Rendered shared/_sections_nav.html.erb (0.4ms)
+  Rendered shared/_search_modal.html.erb (0.7ms)
+  Rendered shared/_main_content.html.erb (1.1ms)
+  Rendered static_pages/index.html.erb within layouts/application (42.7ms)
+Completed 200 OK in 158ms (Views: 147.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/example_image.jpg" for ::1 at 2020-08-14 10:48:41 +0100
+  
+ActionController::RoutingError (No route matches [GET] "/assets/example_image.jpg"):
+  
+actionpack (5.0.7.2) lib/action_dispatch/middleware/debug_exceptions.rb:53:in `call'
+web-console (3.7.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.7.0) lib/web_console/middleware.rb:30:in `block in call'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.0.7.2) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.0.7.2) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.0.7.2) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.0.7.2) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.0.7.2) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.0.7.2) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.0.7.2) lib/rails/rack/logger.rb:24:in `call'
+actionpack (5.0.7.2) lib/action_dispatch/middleware/request_id.rb:24:in `call'
+rack (2.2.3) lib/rack/method_override.rb:24:in `call'
+rack (2.2.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.0.7.2) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+actionpack (5.0.7.2) lib/action_dispatch/middleware/executor.rb:12:in `call'
+rack-livereload (0.3.17) lib/rack/livereload.rb:23:in `_call'
+rack-livereload (0.3.17) lib/rack/livereload.rb:14:in `call'
+actionpack (5.0.7.2) lib/action_dispatch/middleware/static.rb:136:in `call'
+rack (2.2.3) lib/rack/sendfile.rb:110:in `call'
+railties (5.0.7.2) lib/rails/engine.rb:522:in `call'
+puma (3.12.6) lib/puma/configuration.rb:227:in `call'
+puma (3.12.6) lib/puma/server.rb:706:in `handle_request'
+puma (3.12.6) lib/puma/server.rb:476:in `process_client'
+puma (3.12.6) lib/puma/server.rb:334:in `block in run'
+puma (3.12.6) lib/puma/thread_pool.rb:135:in `block in spawn_thread'
+  Rendering /Users/nicolanzi/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/actionpack-5.0.7.2/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout
+  Rendering /Users/nicolanzi/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/actionpack-5.0.7.2/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb
+  Rendered /Users/nicolanzi/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/actionpack-5.0.7.2/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (8.3ms)
+  Rendered collection of /Users/nicolanzi/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/actionpack-5.0.7.2/lib/action_dispatch/middleware/templates/routes/_route.html.erb [1 times] (3.8ms)
+  Rendered /Users/nicolanzi/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/actionpack-5.0.7.2/lib/action_dispatch/middleware/templates/routes/_table.html.erb (2.6ms)
+  Rendering /Users/nicolanzi/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/actionpack-5.0.7.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb
+  Rendered /Users/nicolanzi/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/actionpack-5.0.7.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (3.5ms)
+  Rendered /Users/nicolanzi/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/actionpack-5.0.7.2/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (330.9ms)
+Started GET "/" for ::1 at 2020-08-14 10:49:28 +0100
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (0.9ms)
+  Rendered shared/_masthead.html.erb (3.4ms)
+  Rendered shared/_sections_nav.html.erb (0.3ms)
+  Rendered shared/_search_modal.html.erb (0.3ms)
+  Rendered shared/_main_content.html.erb (0.5ms)
+  Rendered static_pages/index.html.erb within layouts/application (30.4ms)
+Completed 200 OK in 106ms (Views: 99.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/example_image.jpg" for ::1 at 2020-08-14 10:49:28 +0100
+  
+ActionController::RoutingError (No route matches [GET] "/assets/example_image.jpg"):
+  
+actionpack (5.0.7.2) lib/action_dispatch/middleware/debug_exceptions.rb:53:in `call'
+web-console (3.7.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.7.0) lib/web_console/middleware.rb:30:in `block in call'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.0.7.2) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.0.7.2) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.0.7.2) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.0.7.2) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.0.7.2) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.0.7.2) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.0.7.2) lib/rails/rack/logger.rb:24:in `call'
+actionpack (5.0.7.2) lib/action_dispatch/middleware/request_id.rb:24:in `call'
+rack (2.2.3) lib/rack/method_override.rb:24:in `call'
+rack (2.2.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.0.7.2) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+actionpack (5.0.7.2) lib/action_dispatch/middleware/executor.rb:12:in `call'
+rack-livereload (0.3.17) lib/rack/livereload.rb:23:in `_call'
+rack-livereload (0.3.17) lib/rack/livereload.rb:14:in `call'
+actionpack (5.0.7.2) lib/action_dispatch/middleware/static.rb:136:in `call'
+rack (2.2.3) lib/rack/sendfile.rb:110:in `call'
+railties (5.0.7.2) lib/rails/engine.rb:522:in `call'
+puma (3.12.6) lib/puma/configuration.rb:227:in `call'
+puma (3.12.6) lib/puma/server.rb:706:in `handle_request'
+puma (3.12.6) lib/puma/server.rb:476:in `process_client'
+puma (3.12.6) lib/puma/server.rb:334:in `block in run'
+puma (3.12.6) lib/puma/thread_pool.rb:135:in `block in spawn_thread'
+  Rendering /Users/nicolanzi/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/actionpack-5.0.7.2/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout
+  Rendering /Users/nicolanzi/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/actionpack-5.0.7.2/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb
+  Rendered /Users/nicolanzi/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/actionpack-5.0.7.2/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.8ms)
+  Rendered collection of /Users/nicolanzi/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/actionpack-5.0.7.2/lib/action_dispatch/middleware/templates/routes/_route.html.erb [1 times] (5.2ms)
+  Rendered /Users/nicolanzi/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/actionpack-5.0.7.2/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.8ms)
+  Rendering /Users/nicolanzi/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/actionpack-5.0.7.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb
+  Rendered /Users/nicolanzi/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/actionpack-5.0.7.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.7ms)
+  Rendered /Users/nicolanzi/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/actionpack-5.0.7.2/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (231.2ms)
+Started GET "/" for ::1 at 2020-08-14 10:51:11 +0100
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (1.6ms)
+  Rendered shared/_masthead.html.erb (1.4ms)
+  Rendered shared/_sections_nav.html.erb (0.5ms)
+  Rendered shared/_search_modal.html.erb (0.3ms)
+  Rendered shared/_main_content.html.erb (0.3ms)
+  Rendered static_pages/index.html.erb within layouts/application (33.9ms)
+Completed 200 OK in 146ms (Views: 135.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/example_image.jpg" for ::1 at 2020-08-14 10:51:12 +0100
+  
+ActionController::RoutingError (No route matches [GET] "/assets/example_image.jpg"):
+  
+actionpack (5.0.7.2) lib/action_dispatch/middleware/debug_exceptions.rb:53:in `call'
+web-console (3.7.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.7.0) lib/web_console/middleware.rb:30:in `block in call'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.0.7.2) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.0.7.2) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.0.7.2) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.0.7.2) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.0.7.2) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.0.7.2) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.0.7.2) lib/rails/rack/logger.rb:24:in `call'
+actionpack (5.0.7.2) lib/action_dispatch/middleware/request_id.rb:24:in `call'
+rack (2.2.3) lib/rack/method_override.rb:24:in `call'
+rack (2.2.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.0.7.2) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+actionpack (5.0.7.2) lib/action_dispatch/middleware/executor.rb:12:in `call'
+rack-livereload (0.3.17) lib/rack/livereload.rb:23:in `_call'
+rack-livereload (0.3.17) lib/rack/livereload.rb:14:in `call'
+actionpack (5.0.7.2) lib/action_dispatch/middleware/static.rb:136:in `call'
+rack (2.2.3) lib/rack/sendfile.rb:110:in `call'
+railties (5.0.7.2) lib/rails/engine.rb:522:in `call'
+puma (3.12.6) lib/puma/configuration.rb:227:in `call'
+puma (3.12.6) lib/puma/server.rb:706:in `handle_request'
+puma (3.12.6) lib/puma/server.rb:476:in `process_client'
+puma (3.12.6) lib/puma/server.rb:334:in `block in run'
+puma (3.12.6) lib/puma/thread_pool.rb:135:in `block in spawn_thread'
+  Rendering /Users/nicolanzi/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/actionpack-5.0.7.2/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout
+  Rendering /Users/nicolanzi/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/actionpack-5.0.7.2/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb
+  Rendered /Users/nicolanzi/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/actionpack-5.0.7.2/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.1ms)
+  Rendered collection of /Users/nicolanzi/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/actionpack-5.0.7.2/lib/action_dispatch/middleware/templates/routes/_route.html.erb [1 times] (2.1ms)
+  Rendered /Users/nicolanzi/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/actionpack-5.0.7.2/lib/action_dispatch/middleware/templates/routes/_table.html.erb (2.7ms)
+  Rendering /Users/nicolanzi/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/actionpack-5.0.7.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb
+  Rendered /Users/nicolanzi/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/actionpack-5.0.7.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.7ms)
+  Rendered /Users/nicolanzi/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/actionpack-5.0.7.2/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (242.1ms)
+Started GET "/" for ::1 at 2020-08-14 10:51:29 +0100
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (1.2ms)
+  Rendered shared/_masthead.html.erb (0.4ms)
+  Rendered shared/_sections_nav.html.erb (0.3ms)
+  Rendered shared/_search_modal.html.erb (0.3ms)
+  Rendered shared/_main_content.html.erb (0.7ms)
+  Rendered static_pages/index.html.erb within layouts/application (22.5ms)
+Completed 200 OK in 103ms (Views: 96.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/example_image.jpg" for ::1 at 2020-08-14 10:51:29 +0100
+  
+ActionController::RoutingError (No route matches [GET] "/assets/example_image.jpg"):
+  
+actionpack (5.0.7.2) lib/action_dispatch/middleware/debug_exceptions.rb:53:in `call'
+web-console (3.7.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.7.0) lib/web_console/middleware.rb:30:in `block in call'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.0.7.2) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.0.7.2) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.0.7.2) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.0.7.2) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.0.7.2) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.0.7.2) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.0.7.2) lib/rails/rack/logger.rb:24:in `call'
+actionpack (5.0.7.2) lib/action_dispatch/middleware/request_id.rb:24:in `call'
+rack (2.2.3) lib/rack/method_override.rb:24:in `call'
+rack (2.2.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.0.7.2) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+actionpack (5.0.7.2) lib/action_dispatch/middleware/executor.rb:12:in `call'
+rack-livereload (0.3.17) lib/rack/livereload.rb:23:in `_call'
+rack-livereload (0.3.17) lib/rack/livereload.rb:14:in `call'
+actionpack (5.0.7.2) lib/action_dispatch/middleware/static.rb:136:in `call'
+rack (2.2.3) lib/rack/sendfile.rb:110:in `call'
+railties (5.0.7.2) lib/rails/engine.rb:522:in `call'
+puma (3.12.6) lib/puma/configuration.rb:227:in `call'
+puma (3.12.6) lib/puma/server.rb:706:in `handle_request'
+puma (3.12.6) lib/puma/server.rb:476:in `process_client'
+puma (3.12.6) lib/puma/server.rb:334:in `block in run'
+puma (3.12.6) lib/puma/thread_pool.rb:135:in `block in spawn_thread'
+  Rendering /Users/nicolanzi/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/actionpack-5.0.7.2/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout
+  Rendering /Users/nicolanzi/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/actionpack-5.0.7.2/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb
+  Rendered /Users/nicolanzi/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/actionpack-5.0.7.2/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (10.7ms)
+  Rendered collection of /Users/nicolanzi/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/actionpack-5.0.7.2/lib/action_dispatch/middleware/templates/routes/_route.html.erb [1 times] (3.8ms)
+  Rendered /Users/nicolanzi/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/actionpack-5.0.7.2/lib/action_dispatch/middleware/templates/routes/_table.html.erb (29.3ms)
+  Rendering /Users/nicolanzi/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/actionpack-5.0.7.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb
+  Rendered /Users/nicolanzi/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/actionpack-5.0.7.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.6ms)
+  Rendered /Users/nicolanzi/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/actionpack-5.0.7.2/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (254.5ms)
+Started GET "/" for ::1 at 2020-08-14 10:51:42 +0100
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (0.7ms)
+  Rendered shared/_masthead.html.erb (0.7ms)
+  Rendered shared/_sections_nav.html.erb (11.3ms)
+  Rendered shared/_search_modal.html.erb (0.5ms)
+  Rendered shared/_main_content.html.erb (0.3ms)
+  Rendered static_pages/index.html.erb within layouts/application (57.9ms)
+Completed 200 OK in 168ms (Views: 163.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/example_image.jpg" for ::1 at 2020-08-14 10:51:42 +0100
+  
+ActionController::RoutingError (No route matches [GET] "/assets/example_image.jpg"):
+  
+actionpack (5.0.7.2) lib/action_dispatch/middleware/debug_exceptions.rb:53:in `call'
+web-console (3.7.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.7.0) lib/web_console/middleware.rb:30:in `block in call'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.0.7.2) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.0.7.2) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.0.7.2) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.0.7.2) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.0.7.2) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.0.7.2) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.0.7.2) lib/rails/rack/logger.rb:24:in `call'
+actionpack (5.0.7.2) lib/action_dispatch/middleware/request_id.rb:24:in `call'
+rack (2.2.3) lib/rack/method_override.rb:24:in `call'
+rack (2.2.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.0.7.2) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+actionpack (5.0.7.2) lib/action_dispatch/middleware/executor.rb:12:in `call'
+rack-livereload (0.3.17) lib/rack/livereload.rb:23:in `_call'
+rack-livereload (0.3.17) lib/rack/livereload.rb:14:in `call'
+actionpack (5.0.7.2) lib/action_dispatch/middleware/static.rb:136:in `call'
+rack (2.2.3) lib/rack/sendfile.rb:110:in `call'
+railties (5.0.7.2) lib/rails/engine.rb:522:in `call'
+puma (3.12.6) lib/puma/configuration.rb:227:in `call'
+puma (3.12.6) lib/puma/server.rb:706:in `handle_request'
+puma (3.12.6) lib/puma/server.rb:476:in `process_client'
+puma (3.12.6) lib/puma/server.rb:334:in `block in run'
+puma (3.12.6) lib/puma/thread_pool.rb:135:in `block in spawn_thread'
+  Rendering /Users/nicolanzi/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/actionpack-5.0.7.2/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout
+  Rendering /Users/nicolanzi/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/actionpack-5.0.7.2/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb
+  Rendered /Users/nicolanzi/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/actionpack-5.0.7.2/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.9ms)
+  Rendered collection of /Users/nicolanzi/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/actionpack-5.0.7.2/lib/action_dispatch/middleware/templates/routes/_route.html.erb [1 times] (1.7ms)
+  Rendered /Users/nicolanzi/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/actionpack-5.0.7.2/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.8ms)
+  Rendering /Users/nicolanzi/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/actionpack-5.0.7.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb
+  Rendered /Users/nicolanzi/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/actionpack-5.0.7.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (2.0ms)
+  Rendered /Users/nicolanzi/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/actionpack-5.0.7.2/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (220.0ms)
+Started GET "/" for ::1 at 2020-08-14 10:51:50 +0100
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (1.9ms)
+  Rendered shared/_masthead.html.erb (0.7ms)
+  Rendered shared/_sections_nav.html.erb (0.8ms)
+  Rendered shared/_search_modal.html.erb (0.5ms)
+  Rendered shared/_main_content.html.erb (0.7ms)
+  Rendered static_pages/index.html.erb within layouts/application (55.4ms)
+Completed 200 OK in 155ms (Views: 149.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/example_image.jpg" for ::1 at 2020-08-14 10:51:50 +0100
+  
+ActionController::RoutingError (No route matches [GET] "/assets/example_image.jpg"):
+  
+actionpack (5.0.7.2) lib/action_dispatch/middleware/debug_exceptions.rb:53:in `call'
+web-console (3.7.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.7.0) lib/web_console/middleware.rb:30:in `block in call'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.0.7.2) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.0.7.2) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.0.7.2) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.0.7.2) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.0.7.2) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.0.7.2) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.0.7.2) lib/rails/rack/logger.rb:24:in `call'
+actionpack (5.0.7.2) lib/action_dispatch/middleware/request_id.rb:24:in `call'
+rack (2.2.3) lib/rack/method_override.rb:24:in `call'
+rack (2.2.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.0.7.2) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+actionpack (5.0.7.2) lib/action_dispatch/middleware/executor.rb:12:in `call'
+rack-livereload (0.3.17) lib/rack/livereload.rb:23:in `_call'
+rack-livereload (0.3.17) lib/rack/livereload.rb:14:in `call'
+actionpack (5.0.7.2) lib/action_dispatch/middleware/static.rb:136:in `call'
+rack (2.2.3) lib/rack/sendfile.rb:110:in `call'
+railties (5.0.7.2) lib/rails/engine.rb:522:in `call'
+puma (3.12.6) lib/puma/configuration.rb:227:in `call'
+puma (3.12.6) lib/puma/server.rb:706:in `handle_request'
+puma (3.12.6) lib/puma/server.rb:476:in `process_client'
+puma (3.12.6) lib/puma/server.rb:334:in `block in run'
+puma (3.12.6) lib/puma/thread_pool.rb:135:in `block in spawn_thread'
+  Rendering /Users/nicolanzi/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/actionpack-5.0.7.2/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout
+  Rendering /Users/nicolanzi/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/actionpack-5.0.7.2/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb
+  Rendered /Users/nicolanzi/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/actionpack-5.0.7.2/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (5.4ms)
+  Rendered collection of /Users/nicolanzi/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/actionpack-5.0.7.2/lib/action_dispatch/middleware/templates/routes/_route.html.erb [1 times] (1.3ms)
+  Rendered /Users/nicolanzi/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/actionpack-5.0.7.2/lib/action_dispatch/middleware/templates/routes/_table.html.erb (2.1ms)
+  Rendering /Users/nicolanzi/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/actionpack-5.0.7.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb
+  Rendered /Users/nicolanzi/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/actionpack-5.0.7.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.8ms)
+  Rendered /Users/nicolanzi/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/actionpack-5.0.7.2/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (247.0ms)
+Started GET "/" for ::1 at 2020-08-14 10:51:59 +0100
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (0.3ms)
+  Rendered shared/_masthead.html.erb (0.3ms)
+  Rendered shared/_sections_nav.html.erb (0.3ms)
+  Rendered shared/_search_modal.html.erb (0.3ms)
+  Rendered shared/_main_content.html.erb (0.3ms)
+  Rendered static_pages/index.html.erb within layouts/application (18.5ms)
+Completed 200 OK in 49ms (Views: 44.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/example_image.jpg" for ::1 at 2020-08-14 10:51:59 +0100
+  
+ActionController::RoutingError (No route matches [GET] "/assets/example_image.jpg"):
+  
+actionpack (5.0.7.2) lib/action_dispatch/middleware/debug_exceptions.rb:53:in `call'
+web-console (3.7.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.7.0) lib/web_console/middleware.rb:30:in `block in call'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.0.7.2) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.0.7.2) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.0.7.2) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.0.7.2) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.0.7.2) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.0.7.2) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.0.7.2) lib/rails/rack/logger.rb:24:in `call'
+actionpack (5.0.7.2) lib/action_dispatch/middleware/request_id.rb:24:in `call'
+rack (2.2.3) lib/rack/method_override.rb:24:in `call'
+rack (2.2.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.0.7.2) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+actionpack (5.0.7.2) lib/action_dispatch/middleware/executor.rb:12:in `call'
+rack-livereload (0.3.17) lib/rack/livereload.rb:23:in `_call'
+rack-livereload (0.3.17) lib/rack/livereload.rb:14:in `call'
+actionpack (5.0.7.2) lib/action_dispatch/middleware/static.rb:136:in `call'
+rack (2.2.3) lib/rack/sendfile.rb:110:in `call'
+railties (5.0.7.2) lib/rails/engine.rb:522:in `call'
+puma (3.12.6) lib/puma/configuration.rb:227:in `call'
+puma (3.12.6) lib/puma/server.rb:706:in `handle_request'
+puma (3.12.6) lib/puma/server.rb:476:in `process_client'
+puma (3.12.6) lib/puma/server.rb:334:in `block in run'
+puma (3.12.6) lib/puma/thread_pool.rb:135:in `block in spawn_thread'
+  Rendering /Users/nicolanzi/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/actionpack-5.0.7.2/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout
+  Rendering /Users/nicolanzi/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/actionpack-5.0.7.2/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb
+  Rendered /Users/nicolanzi/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/actionpack-5.0.7.2/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (4.1ms)
+  Rendered collection of /Users/nicolanzi/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/actionpack-5.0.7.2/lib/action_dispatch/middleware/templates/routes/_route.html.erb [1 times] (0.9ms)
+  Rendered /Users/nicolanzi/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/actionpack-5.0.7.2/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.2ms)
+  Rendering /Users/nicolanzi/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/actionpack-5.0.7.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb
+  Rendered /Users/nicolanzi/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/actionpack-5.0.7.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.2ms)
+  Rendered /Users/nicolanzi/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/actionpack-5.0.7.2/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (208.2ms)
+Started GET "/" for ::1 at 2020-08-14 10:52:11 +0100
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (0.4ms)
+  Rendered shared/_masthead.html.erb (0.3ms)
+  Rendered shared/_sections_nav.html.erb (0.2ms)
+  Rendered shared/_search_modal.html.erb (0.3ms)
+  Rendered shared/_main_content.html.erb (0.3ms)
+  Rendered static_pages/index.html.erb within layouts/application (26.4ms)
+Completed 200 OK in 95ms (Views: 89.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/example_image.jpg" for ::1 at 2020-08-14 10:52:12 +0100
+  
+ActionController::RoutingError (No route matches [GET] "/assets/example_image.jpg"):
+  
+actionpack (5.0.7.2) lib/action_dispatch/middleware/debug_exceptions.rb:53:in `call'
+web-console (3.7.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.7.0) lib/web_console/middleware.rb:30:in `block in call'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.0.7.2) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.0.7.2) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.0.7.2) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.0.7.2) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.0.7.2) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.0.7.2) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.0.7.2) lib/rails/rack/logger.rb:24:in `call'
+actionpack (5.0.7.2) lib/action_dispatch/middleware/request_id.rb:24:in `call'
+rack (2.2.3) lib/rack/method_override.rb:24:in `call'
+rack (2.2.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.0.7.2) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+actionpack (5.0.7.2) lib/action_dispatch/middleware/executor.rb:12:in `call'
+rack-livereload (0.3.17) lib/rack/livereload.rb:23:in `_call'
+rack-livereload (0.3.17) lib/rack/livereload.rb:14:in `call'
+actionpack (5.0.7.2) lib/action_dispatch/middleware/static.rb:136:in `call'
+rack (2.2.3) lib/rack/sendfile.rb:110:in `call'
+railties (5.0.7.2) lib/rails/engine.rb:522:in `call'
+puma (3.12.6) lib/puma/configuration.rb:227:in `call'
+puma (3.12.6) lib/puma/server.rb:706:in `handle_request'
+puma (3.12.6) lib/puma/server.rb:476:in `process_client'
+puma (3.12.6) lib/puma/server.rb:334:in `block in run'
+puma (3.12.6) lib/puma/thread_pool.rb:135:in `block in spawn_thread'
+  Rendering /Users/nicolanzi/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/actionpack-5.0.7.2/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout
+  Rendering /Users/nicolanzi/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/actionpack-5.0.7.2/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb
+  Rendered /Users/nicolanzi/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/actionpack-5.0.7.2/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.4ms)
+  Rendered collection of /Users/nicolanzi/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/actionpack-5.0.7.2/lib/action_dispatch/middleware/templates/routes/_route.html.erb [1 times] (1.9ms)
+  Rendered /Users/nicolanzi/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/actionpack-5.0.7.2/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.4ms)
+  Rendering /Users/nicolanzi/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/actionpack-5.0.7.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb
+  Rendered /Users/nicolanzi/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/actionpack-5.0.7.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (2.0ms)
+  Rendered /Users/nicolanzi/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/actionpack-5.0.7.2/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (258.9ms)
